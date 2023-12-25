@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+
+h1,h2,h3{text-align: center}
+
+body{
+	background-color: rgb(204, 204, 204)
+}
+
+.player{
+	background-color: rgb(255, 255, 255); 
+	padding : 10px; 
+	border-radius : 20px;
+	border : 1px solid black;
+	
+}
